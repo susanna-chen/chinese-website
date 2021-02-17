@@ -1,0 +1,368 @@
+{
+    "exercises": [
+        {
+            "id": 1,
+            "type": "classifiers",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, laboriosam.",
+            "quizText": "choose the right classifier",
+            "quizes": [
+                {
+                    "id": 1,
+                    "question": "一（. . .）粉笔",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "question": "一（. . .）铅笔",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "question": "一（. . .）叉子",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "question": "一（. . .）椅子",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "question": "一（. . .）牙刷",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "question": "一（. . .）伞",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "question": "一（. . .）剪刀",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "question": "一（. . .）刀",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "question": "一（. . .）条",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "question": "一（. . .）河",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "question": "一（. . .）毛巾",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "question": "一（. . .）棉被",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "question": "一（. . .）牙线",
+                    "options": [
+                        {
+                            "id": 1,
+                            "answer": "支",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 2,
+                            "answer": "把",
+                            "isCorrect": false
+                        },
+                        {
+                            "id": 3,
+                            "answer": "条",
+                            "isCorrect": true
+                        },
+                        {
+                            "id": 4,
+                            "answer": "个",
+                            "isCorrect": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "type": "zio pane",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, laboriosam."
+        } 
+    ],
+
+    "grammar": [
+        {
+            "id": 1,
+            "type": "baubau",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, laboriosam."
+        },
+        {
+            "id": 2,
+            "type": "miaomiao",
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel, laboriosam."
+        }
+    ]
+}
