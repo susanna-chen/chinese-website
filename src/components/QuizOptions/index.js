@@ -37,10 +37,10 @@ const QuizOptions = () => {
     return (
         <>
             {isPending && <h3>Loading...</h3>}
-            {error && <div>{ error }</div>}
+            {error && <div>{error}</div>}
             {exercises &&
             <QuizContainer>
-                {showScore ? (
+                 {showScore ? (
                 <>
                     <ScoreText>You scored {score} out of {totalQuestion}</ScoreText>
                     <Option onClick={() => clearScore()}>Try Again</Option>
