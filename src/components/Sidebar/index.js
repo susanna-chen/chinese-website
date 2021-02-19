@@ -10,10 +10,9 @@ const Sidebar = ({ isOpen, toggle })  => {
                 </Icon>
                 <SidebarWrapper>
                     <SidebarMenu>{/* cambiare anche SidebarElements.js Sidebarmenu se si aggiungono link */}
-                        <SidebarLink to="grammar" onClick={toggle}>Grammar</SidebarLink>
-                        <SidebarLink to="lessons" onClick={toggle}>Lessons</SidebarLink>
-                        <SidebarLink to="exercises" onClick={toggle}>Exercises</SidebarLink>
-                        <SidebarLink to="about" onClick={toggle}>About</SidebarLink>
+                        <SidebarLink to="/chinese-website" onClick={toggle}>Home</SidebarLink>
+                        <SidebarLink to="/exercises" onClick={toggle}>Exercises</SidebarLink>
+                        <SidebarLink to="/about" onClick={toggle}>About</SidebarLink>
                     </SidebarMenu>
                     <SideBtnWrap>
                         <SidebarRoute to="/support">Support Us</SidebarRoute>

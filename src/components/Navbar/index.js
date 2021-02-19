@@ -18,37 +18,16 @@ const Navbar = ( {toggle} ) => {
         <>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to="/" onClick={toggleHome}>
+                    <NavLogo to="/chinese-website" onClick={toggleHome}>
                         Axian</NavLogo>
                 <ToggleIcon onClick={toggle}>
                     <FaBars />
                 </ToggleIcon>
                 <NavMenu>
                     <NavItem>
-                        <NavLink to="/"
-                        smooth={true}
-                        duration={500}
-                        spy={true}
-                        exact='true'
-                        offset={-80}
-                        >
-                            Home</NavLink>
-                        <NavLink to="/exercises"
-                        smooth={true}
-                        duration={500}
-                        spy={true}
-                        exact='true'
-                        offset={-80}
-                        >
-                            Exercises</NavLink>
-                        <NavLink to="about"
-                        smooth={true}
-                        duration={500}
-                        spy={true}
-                        exact='true'
-                        offset={-80}
-                        >
-                            About</NavLink>
+                        <NavLink to="/chinese-website">Home</NavLink>
+                        <NavLink to="/exercises">Exercises</NavLink>
+                        <NavLink to="about">About</NavLink>
                     </NavItem>
                 </NavMenu>
                 <NavBtn>

@@ -1,11 +1,7 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import {CardContainer, CardDescription, CardWrap, CardTitle, ArrowWrap, Arrow} from './CardElements';
-import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
-import Exercises from '../../pages/Exercises';
 
-
-const index = ({posts, service}) => {
+const index = ({posts}) => {
 
     return (
         <>

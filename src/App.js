@@ -20,10 +20,13 @@ function App() {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <Navbar toggle={toggle} /> 
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/chinese-website">
           <Home />
         </Route>
         <Route path="/exercises/:id">
+          <Exercises />
+        </Route>
+        <Route path="/exercises">
           <Exercises />
         </Route>
       </Switch>

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/susanna-chen/chinese-website.git/static/css/main.17a9d81a.chunk.css",
-    "main.js": "/susanna-chen/chinese-website.git/static/js/main.3d1dde4d.chunk.js",
-    "main.js.map": "/susanna-chen/chinese-website.git/static/js/main.3d1dde4d.chunk.js.map",
-    "runtime-main.js": "/susanna-chen/chinese-website.git/static/js/runtime-main.572c9e73.js",
-    "runtime-main.js.map": "/susanna-chen/chinese-website.git/static/js/runtime-main.572c9e73.js.map",
-    "static/js/2.4b8fc972.chunk.js": "/susanna-chen/chinese-website.git/static/js/2.4b8fc972.chunk.js",
-    "static/js/2.4b8fc972.chunk.js.map": "/susanna-chen/chinese-website.git/static/js/2.4b8fc972.chunk.js.map",
-    "index.html": "/susanna-chen/chinese-website.git/index.html",
-    "static/css/main.17a9d81a.chunk.css.map": "/susanna-chen/chinese-website.git/static/css/main.17a9d81a.chunk.css.map",
-    "static/js/2.4b8fc972.chunk.js.LICENSE.txt": "/susanna-chen/chinese-website.git/static/js/2.4b8fc972.chunk.js.LICENSE.txt",
-    "static/media/about.d0646fa2.svg": "/susanna-chen/chinese-website.git/static/media/about.d0646fa2.svg"
+    "main.css": "/chinese-website/static/css/main.17a9d81a.chunk.css",
+    "main.js": "/chinese-website/static/js/main.3d1dde4d.chunk.js",
+    "main.js.map": "/chinese-website/static/js/main.3d1dde4d.chunk.js.map",
+    "runtime-main.js": "/chinese-website/static/js/runtime-main.34ff7f5d.js",
+    "runtime-main.js.map": "/chinese-website/static/js/runtime-main.34ff7f5d.js.map",
+    "static/js/2.1d7fbb94.chunk.js": "/chinese-website/static/js/2.1d7fbb94.chunk.js",
+    "static/js/2.1d7fbb94.chunk.js.map": "/chinese-website/static/js/2.1d7fbb94.chunk.js.map",
+    "index.html": "/chinese-website/index.html",
+    "static/css/main.17a9d81a.chunk.css.map": "/chinese-website/static/css/main.17a9d81a.chunk.css.map",
+    "static/js/2.1d7fbb94.chunk.js.LICENSE.txt": "/chinese-website/static/js/2.1d7fbb94.chunk.js.LICENSE.txt",
+    "static/media/about.d0646fa2.svg": "/chinese-website/static/media/about.d0646fa2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.572c9e73.js",
-    "static/js/2.4b8fc972.chunk.js",
+    "static/js/runtime-main.34ff7f5d.js",
+    "static/js/2.1d7fbb94.chunk.js",
     "static/css/main.17a9d81a.chunk.css",
     "static/js/main.3d1dde4d.chunk.js"
   ]
